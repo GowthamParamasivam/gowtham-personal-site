@@ -7,7 +7,5 @@ import contact from './contact';
 export default [
   about,
   resume,
-  // services,
-  // photos,
   contact
 ];
