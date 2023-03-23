@@ -1,36 +1,37 @@
 export default {
-  coverImage: 'https://i.pinimg.com/originals/5e/66/18/5e6618a423dbc370f695a947842724ef.jpg',
-  profileImage: 'https://cdn.dribbble.com/users/1634115/screenshots/6245839/spiderman-dribbble.png',
-  fullName: 'Peter Parker',
-  profession: 'Spider-Man',
+  coverImage: './cover.jpg',
+  profileImage: './Dp.jpg',
+  fullName: 'Gowtham Paramasivam',
+  profession: 'Blockchain Technical Solutions Architect',
   cv: {
-    url: 'http://www.msnlabs.com/img/resume-sample.pdf',
+    url: 'https://drive.google.com/file/d/1K734s-O_70bfse4HNvtrQP4DXvV77f-0/view?usp=sharing',
     icon: 'mdi-download'
   },
   email: {
-    address: 'peter@parker.com',
+    address: 'gowthamparamasivam66@gmail.com',
     icon: 'mdi-email-send'
   },
   links: [
     {
       title: 'Github',
-      url: '#',
+      url: 'https://github.com/GowthamParamasivam',
       icon: 'mdi-github'
     },
     {
       title: 'Linkedin',
-      url: '#',
+      url: 'https://www.linkedin.com/in/gowtham-paramasivam/',
       icon: 'mdi-linkedin'
     },
     {
-      title: 'Instagram',
-      url: '#',
-      icon: 'mdi-instagram'
-    },
-    {
-      title: 'Play Store',
-      url: '#',
-      icon: 'mdi-google-play'
+      title: 'StackOverflow',
+      url: 'https://stackoverflow.com/users/9559162/gowtham-paramasivam',
+      icon: 'mdi-stack-overflow'
     }
+    // ,
+    // {
+    //   title: 'Play Store',
+    //   url: '#',
+    //   icon: 'mdi-google-play'
+    // }
   ]
 };

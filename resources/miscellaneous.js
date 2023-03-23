@@ -1,13 +1,13 @@
-export const favicon = 'https://pic.vsixhub.com/eb/76/c5463f77-75d9-4a25-8cc4-d8541a461285-logo.png';
-export const title = 'Peter Parker | Personal Page';
+export const favicon = './favicon-16x16.png';
+export const title = 'Gowtham Paramasivam | Personal Page';
 export const meta = [
   {
     name: 'description',
-    content: 'Peter Parker is a Computer Engineer, Photographer & Designer based in LA.'
+    content: 'Gowtham Paramasivam is a Blockchain Technical Solutions Architect based in Coimbatore, Tamil Nadu, India.'
   },
   {
     name: 'keywords',
-    content: 'john,doe,personal,site,developer,software,web,desktop,mobile,fast,reliable,resume'
+    content: 'Java Engineer, Java Developer, Python Developer, Python Engineer, Blockchain Developer, Blockchain Engineer, Solidity Developer, Hyperledger Developer, Hyperledger Fabric, Hyperledger Sawtooth, Hyperledger Besu, AWS Developer, AWS Lambda, AWS Serverless, AWS S3, AWS EC2, Aws Route53'
   }
 ];
 export const landingPage = 'about';

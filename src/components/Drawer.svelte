@@ -3,12 +3,16 @@
   import Resume from '../pages/Resume.svelte';
   import Services from '../pages/Services.svelte';
   import Contact from '../pages/Contact.svelte';
+  import photos from '../pages/Photos.svelte';
   import TabStore from '../stores/TabStore';
+  import { loop_guard } from 'svelte/internal';
 
   const components = {
     'about': About,
     'resume': Resume,
-    'services': Services,
+    // 'services': Services,
+    // 'photos': photos,
+
     'contact': Contact,
   };
 </script>

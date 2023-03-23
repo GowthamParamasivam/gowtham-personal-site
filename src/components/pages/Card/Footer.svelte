@@ -4,7 +4,7 @@
 </script>
 
 <div class="bottom-buttons">
-    <button class="btn download-cv uppercase" on:click={() => window.location.assign(cv.url)}>
+    <button class="btn download-cv uppercase" on:click={() => window.open(cv.url,'_blank')}>
         <span>CV</span>
         <i class="mdi mdi-18px ml-1 {cv.icon} text-color"></i>
     </button>

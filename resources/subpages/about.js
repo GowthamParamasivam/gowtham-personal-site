@@ -3,23 +3,23 @@ export default {
   pageTitle: 'About',
   icon: 'mdi-account-cowboy-hat',
 
-  greeting: 'Hello, I am Peter Parker.',
-  description: 'American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, speed, and agility, along with the ability to cling to walls, turning him into Spider-Man.',
-  birthYear: '1996',
-  residence: 'USA',
+  greeting: 'Hello, I am Gowtham Paramasivam.',
+  description: 'Currently, I am working as a Blockchain Technical Solutions Architect in the startup company Sparkout Tech Solutions. I have more than seven years of experience in the IT industry, specializing in backend development, infrastructure design and automation, smart contract development, and reverse engineering solutions.',
+  birthYear: '1994',
+  residence: 'India',
   freelance: 'Unavailable',
-  address: 'Los Angeles, CA',
-  quote: 'An ambitious man either wins or learns.',
-  hobbies: [
-    {
-      title: 'Table Tennis',
-      icon: 'mdi-table-tennis',
-      description: 'A terrific game to play, keeps one\'s mind sharp and ready.'
-    },
-    {
-      title: 'Football',
-      icon: 'mdi-soccer',
-      description: 'Who would not enjoy a match with friends on a friday evening?'
-    },
-  ]
+  address: 'Coimbatore, Tamil Nadu.',
+  quote: 'Be the change that you want to see in the world.'
+  // hobbies: [
+  //   {
+  //     title: 'Table Tennis',
+  //     icon: 'mdi-table-tennis',
+  //     description: 'A terrific game to play, keeps one\'s mind sharp and ready.'
+  //   },
+  //   {
+  //     title: 'Football',
+  //     icon: 'mdi-soccer',
+  //     description: 'Who would not enjoy a match with friends on a friday evening?'
+  //   },
+  // ]
 };
